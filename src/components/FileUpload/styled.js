@@ -7,3 +7,9 @@ export const Wrapper = styled.div`
   margin: auto;
   padding: 12px 24px;
 `;
+
+export const Form = styled.form``;
+
+export const Input = styled.input``;
+
+export const Button = styled.button``;
